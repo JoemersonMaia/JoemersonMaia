@@ -36,12 +36,11 @@ Meu objetivo é unir minha experiência profissional com os conhecimentos que ve
 * **Desenvolvimento de sistemas**
 
 ## Eventos que já participei nos últimos anos:
-
-## Certificações:
-
-## Categorias de projetos aos quais possuo experiência profissional:
-
-## Premiações e conquistas:
+* **CYBERFAN UNIFAN 2025,**
+* **Fir UNIFAN 2025**
+* **Fiap SSA 2026*
+* **Esquenta DevOps UNIFAN  2026*
+* **Reprograme-se UNIFAN 2026**
 
 ## Produção de conteúdo:
 
