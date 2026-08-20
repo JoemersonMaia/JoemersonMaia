@@ -73,19 +73,6 @@ Tenho conhecimentos relacionados ao **desenvolvimento de sistemas**, área diret
 
 Meu objetivo é continuar aprimorando meus conhecimentos e desenvolver sistemas e soluções que possam atender às necessidades reais de empresas e usuários.
 
-# Por categoria de negócio
-
-## Desenvolvimento de software:
-
-Atualmente, meu perfil apresenta o serviço de **Desenvolvimento de software personalizado**.
-
-Meu objetivo é desenvolver soluções tecnológicas práticas e eficientes, utilizando os conhecimentos adquiridos em programação, Python, banco de dados e desenvolvimento de sistemas.
-
-## Vendas:
-
-Possuo **7 anos de experiência profissional em vendas**, atuando como vendedor na Ceará Autopeças.
-
-Minha experiência é voltada para **fechamento de negócios, superação de metas, fidelização de clientes, comunicação, oratória e relacionamento com o público**.
 
 # Experiência profissional
 
@@ -110,23 +97,6 @@ Possuo **7 anos de experiência em vendas**, com atuação focada em:
 
 Essa experiência profissional contribuiu para o desenvolvimento de habilidades de comunicação, relacionamento interpessoal e capacidade de compreender as necessidades dos clientes.
 
-# Formação acadêmica
-
-## UNIFAN – Centro Universitário Nobre
-
-**Curso Superior de Tecnologia (CST), Análise e Desenvolvimento de Sistemas**
-
-**jan. de 2025 – jul. de 2027**
-
-Durante a graduação, venho desenvolvendo conhecimentos em:
-
-* Programação;
-* Lógica computacional;
-* Banco de dados;
-* Desenvolvimento de sistemas;
-* Desenvolvimento Web;
-* Python.
-
 # Principais competências
 
 As competências que aparecem destacadas no perfil incluem:
@@ -139,51 +109,3 @@ As competências que aparecem destacadas no perfil incluem:
 * Programação;
 * Desenvolvimento Web;
 * Python.
-
-# Objetivo profissional
-
-Busco uma oportunidade na área de **Tecnologia da Informação**, especialmente em posições relacionadas a **Desenvolvimento Web, Python e Desenvolvimento de Sistemas**.
-
-Meu objetivo é aplicar os conhecimentos que venho adquirindo durante minha formação, desenvolver experiência profissional na área de tecnologia, continuar aprendendo e contribuir para a criação de soluções eficientes.
-
-# Disponibilidade profissional
-
-Atualmente, o perfil está configurado como:
-
-**Buscando emprego · Apenas recrutadores**
-
-Localização indicada:
-
-**Feira de Santana, Bahia, Brasil**
-
-# Serviços
-
-O serviço atualmente apresentado no perfil é:
-
-**Desenvolvimento de software personalizado**
-
-# Perfil atual
-
-**Nome:** Joemerson Maia
-
-**Título profissional:** Desenvolvedor Web | Python | Vendedor
-
-**Localização:** Amélia Rodrigues, Bahia, Brasil
-
-**Formação:** UNIFAN – Centro Universitário Nobre
-
-**Curso:** Análise e Desenvolvimento de Sistemas
-
-**Previsão apresentada:** julho de 2027
-
-**Experiência profissional:** Vendedor na Ceará Autopeças
-
-**Tempo de experiência em vendas:** 7 anos
-
-**Área profissional desejada:** Tecnologia da Informação
-
-**Principal linguagem de programação:** Python
-
-**Status profissional:** Buscando emprego — apenas recrutadores
-
-**Serviço oferecido:** Desenvolvimento de software personalizado
