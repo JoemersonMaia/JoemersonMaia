@@ -38,8 +38,8 @@ Meu objetivo é unir minha experiência profissional com os conhecimentos que ve
 ## Eventos que já participei nos últimos anos:
 * **CYBERFAN UNIFAN 2025,**
 * **Fir UNIFAN 2025**
-* **Fiap SSA 2026*
-* **Esquenta DevOps UNIFAN  2026*
+* **Fiap SSA 2026**
+* **Esquenta DevOps UNIFAN  2026**
 * **Reprograme-se UNIFAN 2026**
 
 ## Produção de conteúdo:
