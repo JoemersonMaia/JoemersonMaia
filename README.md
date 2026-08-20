@@ -36,7 +36,7 @@ Meu objetivo é unir minha experiência profissional com os conhecimentos que ve
 * **Desenvolvimento de sistemas**
 
 ## Eventos que já participei nos últimos anos:
-* **CYBERFAN UNIFAN 2025,**
+* **CYBERFAN UNIFAN 2025**
 * **Fir UNIFAN 2025**
 * **Fiap SSA 2026**
 * **Esquenta DevOps UNIFAN  2026**
