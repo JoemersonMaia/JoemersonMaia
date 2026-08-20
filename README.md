@@ -40,7 +40,7 @@ Meu objetivo é unir minha experiência profissional com os conhecimentos que ve
 * **Fir UNIFAN 2025**
 * **Fiap SSA 2026**
 * **Esquenta DevOps UNIFAN  2026**
-* **Reprograme-se UNIFAN 2026**
+* **Reprograme-se UNIFAN 2025**
 
 ## Produção de conteúdo:
 
