@@ -24,7 +24,7 @@ Meu objetivo é unir minha experiência profissional com os conhecimentos que ve
 * **Análise e Desenvolvimento de Sistemas**
 * **UNIFAN – Centro Universitário Nobre**
 * Período: **jan. de 2025 – jul. de 2027**
-* Modalidade: **EAD**
+* Modalidade: **Presencial**
 
 ## Tecnologias:
 
