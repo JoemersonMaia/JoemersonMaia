@@ -74,23 +74,4 @@ Essa experiência profissional contribuiu para o desenvolvimento de habilidades 
 
 A experiência no setor automotivo também despertou meu interesse em utilizar **tecnologia e análise de dados para compreender informações, identificar padrões e contribuir para melhorias nos processos e resultados de uma empresa**.
 
-# Principais competências
-
-As principais competências do meu perfil incluem:
-
-* **Análise de Dados**
-* **Python**
-* **Programação**
-* **Desenvolvimento de Sistemas**
-* **Desenvolvimento Web**
-* **Banco de Dados**
-* **Lógica de Programação**
-* **Tratamento e organização de dados**
-* **Comunicação**
-* **Oratória**
-* **Atendimento ao cliente**
-* **Negociação**
-* **Trabalho em equipe**
-* **Organização**
-
 Meu objetivo profissional é continuar evoluindo em **Python, Análise de Dados e Desenvolvimento de Sistemas**, unindo conhecimento técnico e experiência profissional para desenvolver soluções que gerem valor para empresas e usuários.
