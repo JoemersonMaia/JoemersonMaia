@@ -74,4 +74,6 @@ Essa experiência profissional contribuiu para o desenvolvimento de habilidades 
 
 A experiência no setor automotivo também despertou meu interesse em utilizar **tecnologia e análise de dados para compreender informações, identificar padrões e contribuir para melhorias nos processos e resultados de uma empresa**.
 
+# Objetivo profissional
+
 Meu objetivo profissional é continuar evoluindo em **Python, Análise de Dados e Desenvolvimento de Sistemas**, unindo conhecimento técnico e experiência profissional para desenvolver soluções que gerem valor para empresas e usuários.
