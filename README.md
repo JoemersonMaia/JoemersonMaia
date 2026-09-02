@@ -45,44 +45,6 @@ Meu objetivo é unir minha experiência profissional com os conhecimentos que ve
 * **Esquenta DevOps UNIFAN 2026**
 * **Reprograme-se UNIFAN 2025**
 
-# Produção de conteúdo
-
-## Python
-
-### Experiência
-
-Python é apresentada como a **principal linguagem de programação** no meu perfil. Atualmente, venho estudando e desenvolvendo meus conhecimentos na linguagem como parte da minha formação em Análise e Desenvolvimento de Sistemas.
-
-Tenho interesse em utilizar Python para o **desenvolvimento de sistemas, automação, análise e tratamento de dados**, buscando desenvolver soluções práticas e eficientes.
-
-Meu objetivo é aprofundar meus conhecimentos em Python e utilizá-la profissionalmente tanto no desenvolvimento de aplicações quanto em projetos relacionados à **Análise de Dados**.
-
-## Análise de Dados
-
-Possuo interesse e estudos voltados para **Análise de Dados**, buscando compreender como transformar dados em informações úteis para apoiar decisões e identificar oportunidades de melhoria.
-
-Tenho interesse em utilizar **Python e ferramentas de análise de dados** para trabalhar com tratamento, organização, interpretação e visualização de informações.
-
-Meu objetivo é desenvolver cada vez mais conhecimentos na área e aplicar a análise de dados em situações reais, especialmente na criação de soluções que possam auxiliar empresas na tomada de decisões.
-
-## Desenvolvimento Web
-
-Possuo interesse e estudos voltados para **Desenvolvimento Web**, buscando compreender como construir aplicações e soluções práticas utilizando programação.
-
-Também busco integrar conhecimentos de desenvolvimento com **dados e sistemas**, criando aplicações capazes de coletar, processar e apresentar informações de maneira eficiente.
-
-## Lógica de Programação
-
-Possuo conhecimentos em **lógica computacional e programação**, adquiridos durante minha formação e estudos na área de tecnologia.
-
-Esses conhecimentos são fundamentais para meu desenvolvimento em **Python, análise de dados e desenvolvimento de sistemas**.
-
-## Desenvolvimento de Sistemas
-
-Tenho conhecimentos relacionados ao **desenvolvimento de sistemas**, área diretamente relacionada à minha graduação em Análise e Desenvolvimento de Sistemas.
-
-Meu objetivo é continuar aprimorando meus conhecimentos e desenvolver sistemas e soluções que possam atender às necessidades reais de empresas e usuários, utilizando também **dados como apoio para análise e tomada de decisões**.
-
 # Experiência profissional
 
 ## Vendedor — Ceará Autopeças
