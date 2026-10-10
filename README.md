@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1>JOEMERSON MAIA</h1>
+<p align="center"><strong><big>JOEMERSON MAIA</big></strong></p>
 
 **Analista de Dados | Python | Pandas | Streamlit | Git | SQL | Estatística | Power BI**
 
@@ -81,7 +81,7 @@ Essa vivência me proporcionou uma compreensão prática das necessidades dos cl
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=JoemersonMaia&show_icons=true&theme=default&hide_border=true&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub">
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=JoemersonMaia&show_icons=true&hide_rank=true&theme=default&hide_border=true&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub">
 
 <br><br><br>
 
