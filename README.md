@@ -56,6 +56,7 @@ Essa vivência me proporcionou uma compreensão prática das necessidades dos cl
 
 <hr>📈 ESTATÍSTICAS DO GITHUB
 
+
 <div align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api?username=JoemersonMaia&show_icons=true&theme=default&hide_border=true" alt="Estatísticas gerais do GitHub"><br><br><br>
 
 <img width="75%" src="https://github-readme-stats-vercel.zcy.dev/api/top-langs/?username=JoemersonMaia&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=default&hide_border=true" alt="Linguagens mais utilizadas no GitHub"></div>
