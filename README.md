@@ -3,7 +3,7 @@
 
 <h1>JOEMERSON MAIA</h1>
 
-### Analista de Dados | Python | Pandas | Streamlit | Git | SQL | Estatística | Power BI
+**Analista de Dados | Python | Pandas | Streamlit | Git | SQL | Estatística | Power BI**
 
 <a href="https://www.linkedin.com/in/joemerson-maia-198b39365/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:joemersonfrancomaia@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
@@ -12,7 +12,7 @@
 
 <hr>
 
-# 👨‍💻 SOBRE MIM
+<p><strong>👨‍💻 SOBRE MIM</strong></p>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFAN – Centro Universitário Nobre e estou em transição de carreira para a área de Análise de Dados. Tenho conhecimentos em Python, Pandas, SQL, Estatística, Streamlit e Power BI, com foco no tratamento, na exploração e na interpretação de dados para apoiar a tomada de decisões.
 
@@ -20,7 +20,7 @@ Tenho sete anos de experiência em vendas no setor automotivo, onde desenvolvi h
 
 <hr>
 
-# 🛠️ STACK E TECNOLOGIAS
+<p><strong>🛠️ STACK E TECNOLOGIAS</strong></p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -33,7 +33,7 @@ Tenho sete anos de experiência em vendas no setor automotivo, onde desenvolvi h
 
 <hr>
 
-# 📊 ÁREAS DE CONHECIMENTO
+<p><strong>📊 ÁREAS DE CONHECIMENTO</strong></p>
 
 - **Análise de Dados:** tratamento, exploração e interpretação de dados.
 - **Banco de Dados:** SQL, consultas e fundamentos de bancos de dados relacionais.
@@ -43,9 +43,9 @@ Tenho sete anos de experiência em vendas no setor automotivo, onde desenvolvi h
 
 <hr>
 
-# 🎓 FORMAÇÃO ACADÊMICA
+<p><strong>🎓 FORMAÇÃO ACADÊMICA</strong></p>
 
-### Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
+**Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas**
 
 **UNIFAN – Centro Universitário Nobre**
 
@@ -55,7 +55,7 @@ Tenho sete anos de experiência em vendas no setor automotivo, onde desenvolvi h
 
 <hr>
 
-# 📅 EVENTOS E PARTICIPAÇÕES
+<p><strong>📅 EVENTOS E PARTICIPAÇÕES</strong></p>
 
 - **CYBERFAN UNIFAN 2025**
 - **FIR UNIFAN 2025**
@@ -65,9 +65,9 @@ Tenho sete anos de experiência em vendas no setor automotivo, onde desenvolvi h
 
 <hr>
 
-# 💼 EXPERIÊNCIA PROFISSIONAL
+<p><strong>💼 EXPERIÊNCIA PROFISSIONAL</strong></p>
 
-### Vendedor | Ceará Autopeças
+**Vendedor | Ceará Autopeças**
 
 **Amélia Rodrigues – Bahia | Janeiro de 2019 – atual**
 
@@ -77,14 +77,14 @@ Essa vivência me proporcionou uma compreensão prática das necessidades dos cl
 
 <hr>
 
-# 📈 ESTATÍSTICAS DO GITHUB
+<p><strong>📈 ESTATÍSTICAS DO GITHUB</strong></p>
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=JoemersonMaia&show_icons=true&theme=default&hide_border=true" alt="Estatísticas gerais do GitHub">
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=JoemersonMaia&show_icons=true&theme=default&hide_border=true&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub">
 
 <br><br><br>
 
-<img width="90%" src="./assets/language-stats.svg" alt="Linguagens de programação nos repositórios públicos do GitHub, incluindo SQL">
+<img width="90%" src="./assets/language-stats.svg" alt="Linguagens detectadas nos repositórios públicos, incluindo SQL">
 
 </div>
