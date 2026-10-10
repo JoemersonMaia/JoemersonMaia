@@ -1,7 +1,8 @@
   
 
 
-  <div align="center">JOEMERSON MAIA
+   
+<div align="center">JOEMERSON MAIA
 
 Analista de Dados | Python | Pandas | Streamlit | Git | SQL | Estatística | Power BI
 
@@ -10,7 +11,7 @@ Analista de Dados | Python | Pandas | Streamlit | Git | SQL | Estatística | Pow
 
 </div>---
 
-01. SOBRE MIM
+👨‍💻 SOBRE MIM
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFAN – Centro Universitário Nobre e estou em transição de carreira para a área de Análise de Dados. Tenho conhecimentos em Python, Pandas, SQL, Estatística, Streamlit e Power BI, com foco no tratamento, na exploração e na interpretação de dados para apoiar a tomada de decisões.
 
@@ -18,7 +19,7 @@ Tenho sete anos de experiência em vendas no setor automotivo, onde desenvolvi h
 
 ---
 
-02. STACK E TECNOLOGIAS
+🛠️ STACK E TECNOLOGIAS
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -29,7 +30,7 @@ Tenho sete anos de experiência em vendas no setor automotivo, onde desenvolvi h
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </p>---
 
-03. ÁREAS DE CONHECIMENTO
+📊 ÁREAS DE CONHECIMENTO
 
 - Análise de Dados: tratamento, exploração e interpretação de dados.
 - Banco de Dados: consultas SQL e fundamentos de bancos de dados relacionais.
@@ -39,7 +40,7 @@ Tenho sete anos de experiência em vendas no setor automotivo, onde desenvolvi h
 
 ---
 
-04. FORMAÇÃO ACADÊMICA
+🎓 FORMAÇÃO ACADÊMICA
 
 Curso Superior de Tecnologia (CST) em Análise e Desenvolvimento de Sistemas
 
@@ -51,7 +52,7 @@ UNIFAN – Centro Universitário Nobre
 
 ---
 
-05. EVENTOS E PARTICIPAÇÕES
+📅 EVENTOS E PARTICIPAÇÕES
 
 - CYBERFAN UNIFAN 2025
 - FIR UNIFAN 2025
@@ -61,7 +62,7 @@ UNIFAN – Centro Universitário Nobre
 
 ---
 
-06. EXPERIÊNCIA PROFISSIONAL
+💼 EXPERIÊNCIA PROFISSIONAL
 
 Vendedor | Ceará Autopeças
 
@@ -73,13 +74,13 @@ Essa vivência me proporcionou uma compreensão prática das necessidades dos cl
 
 ---
 
-07. ESTATÍSTICAS DO GITHUB
+📈 ESTATÍSTICAS DO GITHUB
 
 <div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=JoemersonMaia&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoemersonMaia&layout=compact&theme=default&hide_border=true" alt="Linguagens mais utilizadas"></div>---
 
-08. CONTATO
+📬 CONTATO
 
 <p>
   <a href="https://www.linkedin.com/in/joemerson-maia-198b39365/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:joemersonfrancomaia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-</p>Meu objetivo é atuar como Analista de Dados, combinando conhecimento técnico e experiência profissional para transformar dados em informações relevantes e gerar valor para empresas e usuários.
+  <a href="mailto:joemersonfrancomaia@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
