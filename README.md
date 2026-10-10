@@ -1,4 +1,4 @@
-<div align="center">JOEMERSON MAIA
+<div align="center"><span style="font-size: 42px;">JOEMERSON MAIA</span>
 
 Analista de Dados | Python | Pandas | Streamlit | Git | SQL | Estatística | Power BI
 
@@ -58,9 +58,4 @@ Essa vivência me proporcionou uma compreensão prática das necessidades dos cl
 
 <hr>📈 ESTATÍSTICAS DO GITHUB
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=JoemersonMaia&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub"><img height="165" src="https://github-readme-stats-vercel.zcy.dev/api/top-langs/?username=JoemersonMaia&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=default&hide_border=true" alt="Linguagens mais utilizadas no GitHub"></div><hr>📬 CONTATO
-
-<p>
-  <a href="https://www.linkedin.com/in/joemerson-maia-198b39365/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:joemersonfrancomaia@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-</p>
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoemersonMaia&show_icons=true&theme=default&hide_border=true" alt="Estatísticas gerais do GitHub"><img width="49%" src="https://github-readme-stats-vercel.zcy.dev/api/top-langs/?username=JoemersonMaia&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=default&hide_border=true" alt="Linguagens mais utilizadas no GitHub"></div>
