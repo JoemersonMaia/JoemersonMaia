@@ -1,79 +1,72 @@
-# 👋 Seja bem-vindo!
+<div align="center">Joemerson Maia
 
-Meu nome é **Joemerson Maia**. Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira na área de tecnologia, com foco em **Python, Análise de Dados, Desenvolvimento Web e Desenvolvimento de Sistemas**.
+Analista de Dados | Python | Pandas | Streamlit | Git | SQL | Estatística | Power BI
 
-Atualmente, também atuo profissionalmente como **Vendedor na Ceará Autopeças**, onde desenvolvi experiência na área de vendas, comunicação, oratória, relacionamento com clientes e negociação.
+<p>
+  <a href="[LINK_DO_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:[SEU_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p></div>---
 
-Tenho interesse em **tecnologia, programação e análise de dados** e venho desenvolvendo meus conhecimentos com o objetivo de atuar profissionalmente na área de TI.
+Sobre mim
 
-## Breve história
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFAN – Centro Universitário Nobre e estou em transição de carreira para a área de Análise de Dados. Tenho conhecimentos em Python, Pandas, SQL, Estatística e Power BI, com foco no tratamento, na exploração e na interpretação de dados para gerar informações úteis à tomada de decisões.
 
-Sou estudante do curso superior de tecnologia em **Análise e Desenvolvimento de Sistemas**, na **UNIFAN – Centro Universitário Nobre**.
+Tenho sete anos de experiência em vendas no setor automotivo, onde desenvolvi habilidades em negociação, análise de necessidades dos clientes, organização de processos e acompanhamento de resultados. Quero unir essa visão prática de negócio ao conhecimento técnico para identificar padrões, apoiar decisões e contribuir para a melhoria de processos e resultados.
 
-Ao longo da minha formação, venho adquirindo conhecimentos em **programação, lógica computacional, banco de dados, análise de dados e desenvolvimento de sistemas**, tendo **Python** como principal linguagem de programação.
+Tecnologias
 
-Atualmente, também estudo e desenvolvo conhecimentos voltados para **Análise de Dados e Desenvolvimento Web**, buscando compreender como utilizar tecnologia e dados para criar soluções práticas, eficientes e capazes de auxiliar na tomada de decisões.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+</p>Projetos em destaque
 
-Além da área acadêmica e tecnológica, possuo experiência profissional de **7 anos na área de vendas**, atuando como vendedor na **Ceará Autopeças**, em Amélia Rodrigues, Bahia.
+Projeto| Descrição| Tecnologias
+"Nome do projeto 1" (LINK_DO_REPOSITORIO_1)| [Descreva em uma linha o problema analisado e o resultado do projeto.]| [Python, Pandas, SQL...]
+"Nome do projeto 2" (LINK_DO_REPOSITORIO_2)| [Descreva em uma linha o objetivo e a principal funcionalidade.]| [Tecnologias utilizadas]
+"Nome do projeto 3" (LINK_DO_REPOSITORIO_3)| [Descreva em uma linha a análise ou solução desenvolvida.]| [Tecnologias utilizadas]
+"Nome do projeto 4" (LINK_DO_REPOSITORIO_4)| [Descreva em uma linha o que o projeto demonstra.]| [Tecnologias utilizadas]
 
-Meu objetivo é unir minha experiência profissional com os conhecimentos que venho adquirindo em **programação, análise de dados e desenvolvimento de sistemas**, construindo uma carreira sólida na área de tecnologia.
+Conhecimentos
 
-## Nível acadêmico
+- Análise de Dados: exploração, tratamento, limpeza e interpretação de dados.
+- Programação: Python, lógica computacional e desenvolvimento de sistemas.
+- Bibliotecas e ferramentas: Pandas e Streamlit.
+- Banco de dados: SQL e consultas a bancos de dados relacionais.
+- Visualização de dados: Power BI e apresentação de informações para apoiar decisões.
+- Desenvolvimento: fundamentos de desenvolvimento web e versionamento com Git.
 
-* **Curso Superior de Tecnologia (CST)**
-* **Análise e Desenvolvimento de Sistemas**
-* **UNIFAN – Centro Universitário Nobre**
-* Período: **jan. de 2025 – jul. de 2027**
-* Modalidade: **Presencial**
+Formação e eventos
 
-## Tecnologias e áreas de conhecimento
+Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
+UNIFAN – Centro Universitário Nobre
+Modalidade presencial | Janeiro de 2025 – Julho de 2027
 
-* **Python**
-* **Análise de Dados**
-* **Desenvolvimento Web**
-* **Programação**
-* **Lógica computacional**
-* **Banco de dados**
-* **Desenvolvimento de sistemas**
-* **Tratamento e análise de dados**
+Eventos e atividades de tecnologia
 
-## Eventos que já participei nos últimos anos
+- CYBERFAN UNIFAN 2025
+- FIR UNIFAN 2025
+- Reprograme-se UNIFAN 2025
+- FIAP SSA 2026
+- Esquenta DevOps UNIFAN 2026
 
-* **CYBERFAN UNIFAN 2025**
-* **Fir UNIFAN 2025**
-* **FIAP SSA 2026**
-* **Esquenta DevOps UNIFAN 2026**
-* **Reprograme-se UNIFAN 2025**
+Experiência profissional
 
-# Experiência profissional
+Vendedor — Ceará Autopeças
+Amélia Rodrigues, Bahia | Janeiro de 2019 – atual
 
-## Vendedor — Ceará Autopeças
+Atuo no setor de vendas automotivas, com experiência em negociação, fechamento de negócios, fidelização de clientes, acompanhamento de metas e suporte técnico. Também realizo atividades relacionadas à entrada e conferência de notas fiscais, organização e trabalho em equipe.
 
-**Ceará Autopeças · Tempo integral**
+Essa experiência me proporcionou uma visão prática das necessidades do negócio, dos processos comerciais e do relacionamento com clientes. Busco aplicar essa compreensão na análise de dados para identificar oportunidades de melhoria e apoiar decisões mais bem fundamentadas.
 
-**jan. de 2019 – o momento**
+Estatísticas do GitHub
 
-**Amélia Rodrigues, Bahia, Brasil · No local**
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=JoemersonMaia&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub de Joemerson Maia"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoemersonMaia&layout=compact&theme=default&hide_border=true" alt="Linguagens mais utilizadas por Joemerson Maia"></div>Contato
 
-Possuo **7 anos de experiência em vendas**, com atuação focada em:
-
-* Fechamento de negócios;
-* Superação de metas;
-* Fidelização de clientes;
-* Comunicação;
-* Oratória;
-* Atendimento e relacionamento com clientes;
-* Vendas;
-* Negociação;
-* Organização;
-* Trabalho em equipe;
-* Entrada e conferência de notas fiscais;
-* Suporte técnico aos clientes.
-
-Essa experiência profissional contribuiu para o desenvolvimento de habilidades de **comunicação, relacionamento interpessoal, negociação, organização e compreensão das necessidades dos clientes**.
-
-A experiência no setor automotivo também despertou meu interesse em utilizar **tecnologia e análise de dados para compreender informações, identificar padrões e contribuir para melhorias nos processos e resultados de uma empresa**.
-
-# Objetivo profissional
-
-Meu objetivo profissional é continuar evoluindo em **Python, Análise de Dados e Desenvolvimento de Sistemas**, unindo conhecimento técnico e experiência profissional para desenvolver soluções que gerem valor para empresas e usuários.
+<p>
+  <a href="[LINK_DO_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:[SEU_EMAIL]"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>Estou aberto a oportunidades na área de Análise de Dados, nas quais eu possa contribuir com minha experiência profissional e aplicar meus conhecimentos técnicos para transformar dados em informações úteis para o negócio.
