@@ -1,7 +1,5 @@
   
 
-
-   
 <div align="center">JOEMERSON MAIA
 
 Analista de Dados | Python | Pandas | Streamlit | Git | SQL | Estatística | Power BI
@@ -26,14 +24,14 @@ Tenho sete anos de experiência em vendas no setor automotivo, onde desenvolvi h
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </p>---
 
 📊 ÁREAS DE CONHECIMENTO
 
 - Análise de Dados: tratamento, exploração e interpretação de dados.
-- Banco de Dados: consultas SQL e fundamentos de bancos de dados relacionais.
+- Banco de Dados: SQL, consultas e fundamentos de bancos de dados relacionais.
 - Programação: Python, lógica computacional e desenvolvimento de sistemas.
 - Visualização de Dados: construção de visualizações e apresentação de informações.
 - Desenvolvimento: fundamentos de desenvolvimento web e versionamento de código com Git.
@@ -42,7 +40,7 @@ Tenho sete anos de experiência em vendas no setor automotivo, onde desenvolvi h
 
 🎓 FORMAÇÃO ACADÊMICA
 
-Curso Superior de Tecnologia (CST) em Análise e Desenvolvimento de Sistemas
+Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
 
 UNIFAN – Centro Universitário Nobre
 
@@ -76,7 +74,7 @@ Essa vivência me proporcionou uma compreensão prática das necessidades dos cl
 
 📈 ESTATÍSTICAS DO GITHUB
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=JoemersonMaia&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoemersonMaia&layout=compact&theme=default&hide_border=true" alt="Linguagens mais utilizadas"></div>---
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=JoemersonMaia&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoemersonMaia&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=default&hide_border=true" alt="Linguagens mais utilizadas no GitHub"></div>---
 
 📬 CONTATO
 
