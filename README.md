@@ -68,6 +68,6 @@ Essa vivência me proporcionou uma compreensão prática das necessidades dos cl
 
 <br><br>
 
-<img width="75%" src="https://github-readme-stats-vercel.zcy.dev/api/top-langs/?username=JoemersonMaia&layout=compact&langs_count=20&size_weight=0&count_weight=1&theme=default&hide_border=true" alt="Linguagens mais utilizadas no GitHub">
+<img width="75%" src="https://github-readme-stats-vercel.zcy.dev/api/top-langs/?username=JoemersonMaia&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=default&hide_border=true" alt="Linguagens mais utilizadas no GitHub">
 
 </div>
