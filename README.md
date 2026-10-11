@@ -15,15 +15,25 @@ Tenho sete anos de experiência em vendas no setor automotivo, onde desenvolvi h
 
 ## 🛠️ STACK E TECNOLOGIAS
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-</p>
+## 📈 ESTATÍSTICAS DO GITHUB
 
+<div align="center">
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=JoemersonMaia&show_icons=true&theme=default&hide_border=true" alt="Estatísticas gerais do GitHub">
+
+<br><br>
+
+<img width="75%" src="https://github-readme-stats-vercel.zcy.dev/api/top-langs/?username=JoemersonMaia&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=default&hide_border=true" alt="Linguagens mais utilizadas no GitHub">
+
+<br><br>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=JoemersonMaia&theme=default&hide_border=true" alt="Sequência de contribuições no GitHub">
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoemersonMaia&theme=minimal&hide_border=true" alt="Gráfico de atividade no GitHub">
+
+</div>
 ## 📊 ÁREAS DE CONHECIMENTO
 
 - Análise de Dados: tratamento, exploração e interpretação de dados.
