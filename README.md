@@ -50,6 +50,7 @@ UNIFAN – Centro Universitário Nobre
 - Reprograme-se UNIFAN 2025
 - FIAP SSA 2026
 - Esquenta DevOps UNIFAN 2026
+- FINC 2026
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL
 
