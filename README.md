@@ -31,7 +31,7 @@ Tenho sete anos de experiência em vendas no setor automotivo, onde desenvolvi h
 - Banco de Dados: SQL, consultas e fundamentos de bancos de dados relacionais.
 - Programação: Python, lógica computacional e desenvolvimento de sistemas.
 - Visualização de Dados: construção de visualizações e apresentação de informações.
-- Desenvolvimento: fundamentos de desenvolvimento web e versionamento de código com Git.
+- Desenvolvimento: fundamentos (Streamlit) de desenvolvimento web e versionamento de código com Git.
 
 ## 🎓 FORMAÇÃO ACADÊMICA
 
